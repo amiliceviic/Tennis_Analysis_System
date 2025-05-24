@@ -38,6 +38,8 @@
 
 This project focuses on the analysis of tennis players in video footage to evaluate their movement speed, shot speed, and shot count. It employs YOLO for real-time detection of players and the tennis ball, while convolutional neural networks (CNNs) are used to extract keypoints of the court. Designed as a practical, hands-on initiative, this project offers an excellent opportunity to enhance your expertise in machine learning and computer vision.
 
+![Screenshot](output_videos/screenshot.png)
+
 **Why Tennis_Analysis_System?**
 
 This project aims to enhance player performance and coaching strategies through data-driven insights. The core features include:

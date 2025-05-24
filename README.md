@@ -27,7 +27,8 @@
 
 - [Overview](#-overview)
 - [Modules Used](#-modules-used)
-- [Overview](#-overview)
+- [Trained Models](#-trained-models)
+- [Trained Models](#-overview)
 - [Getting Started](#-getting-started)
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
@@ -61,8 +62,14 @@ The following modules are used in this project:
 * Fine Tuned YOLO for tennis ball detection
 * Court Key point extraction
 
+---
+
+## 🕹️ Trained Models
+
 * Trained YOLOV5 model: https://drive.google.com/file/d/1UZwiG1jkWgce9lNhxJ2L0NVjX1vGM05U/view?usp=sharing
 * Trained tennis court key point model: https://drive.google.com/file/d/1QrTOF1ToQ4plsSZbkBs3zOLkVt3MBlta/view?usp=sharing
+
+---
 
 ## 🚀 Getting Started
 

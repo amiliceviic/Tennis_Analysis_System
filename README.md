@@ -26,6 +26,8 @@
 ## 📄 Table of Contents
 
 - [Overview](#-overview)
+- [Modules Used](#-modules-used)
+- [Overview](#-overview)
 - [Getting Started](#-getting-started)
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
@@ -51,6 +53,16 @@ This project aims to enhance player performance and coaching strategies through 
 - 🎥 **Utility Functions:** Access essential video processing tools for enhanced functionality.
 
 ---
+
+## 🥡 Modules Used
+
+The following modules are used in this project:
+* YOLO v8 for player detection
+* Fine Tuned YOLO for tennis ball detection
+* Court Key point extraction
+
+* Trained YOLOV5 model: https://drive.google.com/file/d/1UZwiG1jkWgce9lNhxJ2L0NVjX1vGM05U/view?usp=sharing
+* Trained tennis court key point model: https://drive.google.com/file/d/1QrTOF1ToQ4plsSZbkBs3zOLkVt3MBlta/view?usp=sharing
 
 ## 🚀 Getting Started
 

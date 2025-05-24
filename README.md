@@ -28,7 +28,7 @@
 - [Overview](#-overview)
 - [Modules Used](#-modules-used)
 - [Trained Models](#-trained-models)
-- [Trained Models](#-overview)
+- [Training](#-training)
 - [Getting Started](#-getting-started)
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
@@ -68,6 +68,13 @@ The following modules are used in this project:
 
 * Trained YOLOV5 model: https://drive.google.com/file/d/1UZwiG1jkWgce9lNhxJ2L0NVjX1vGM05U/view?usp=sharing
 * Trained tennis court key point model: https://drive.google.com/file/d/1QrTOF1ToQ4plsSZbkBs3zOLkVt3MBlta/view?usp=sharing
+
+---
+
+## ♟️ Training
+
+* Tennis ball detetcor with YOLO: training/tennis_ball_detector_training.ipynb
+* Tennis court keypoint with Pytorch: training/tennis_court_keypoints_training.ipynb
 
 ---
 

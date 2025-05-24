@@ -28,7 +28,7 @@
 - [Overview](#-overview)
 - [Modules Used](#-modules-used)
 - [Trained Models](#-trained-models)
-- [Training](#-training)
+- [Requirements](#-requirements)
 - [Getting Started](#-getting-started)
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
@@ -75,6 +75,18 @@ The following modules are used in this project:
 
 * Tennis ball detetcor with YOLO: training/tennis_ball_detector_training.ipynb
 * Tennis court keypoint with Pytorch: training/tennis_court_keypoints_training.ipynb
+
+---
+
+## 🪁 Requirements
+
+To run this project, you need to have the following requirements installed:
+* python3.8
+* ultralytics
+* pytroch
+* pandas
+* numpy 
+* opencv
 
 ---
 

@@ -3,7 +3,6 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-
 # TENNIS_ANALYSIS_SYSTEM
 
 <em>Elevate Performance Through Intelligent Tennis Insights</em>

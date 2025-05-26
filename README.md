@@ -6,7 +6,6 @@
 
 <em>Elevate Performance Through Intelligent Tennis Insights</em>
 
-<!-- BADGES -->
 <img src="https://img.shields.io/github/last-commit/amiliceviic/Tennis_Analysis_System?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 <img src="https://img.shields.io/github/languages/top/amiliceviic/Tennis_Analysis_System?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/amiliceviic/Tennis_Analysis_System?style=flat&color=0080ff" alt="repo-language-count">

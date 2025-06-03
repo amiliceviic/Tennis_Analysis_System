@@ -4,7 +4,6 @@
 
 # TENNIS_ANALYSIS_SYSTEM
 
-
 <em>Elevate Performance Through Intelligent Tennis Insights</em>
 
 <img src="https://img.shields.io/github/last-commit/amiliceviic/Tennis_Analysis_System?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
